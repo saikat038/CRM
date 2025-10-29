@@ -1,0 +1,5 @@
+streamlit
+sqlalchemy>=2.0
+pandas
+# Add ONLY if you use Postgres via DATABASE_URL; omit for SQLite
+psycopg2-binary
